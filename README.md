@@ -1,7 +1,10 @@
+#BasicFramework 
 #Node 
-#AtlPay-Framework 
 #Ts-Node 
-#TypeScript 
+#TypeScript
+#javaScript
 #Express 
 #TypeORM
 #Docker
+#Jest
+#SuperTest
