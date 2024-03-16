@@ -1,5 +1,5 @@
 {
-  "name": "framework",
+  "name": "Node-TypeSript Workspace",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.ts",
