@@ -5,7 +5,9 @@ import bodyParser from 'body-parser';
 import useragent from 'express-useragent';
 import cookieParser from 'cookie-parser';
 import cors from 'cors';
+
 export const app : Application = new Application();
+
 app.middleware(cors());
 app.middleware(useragent.express());
 app.middleware(cookieParser());
